@@ -1,4 +1,4 @@
-# Project_3:T-Shirt Website
+# Project:T-Shirt Website
 ![Capturet](https://github.com/user-attachments/assets/8dd2895b-9dd6-414d-b531-693700067856)
 
 ## Description
