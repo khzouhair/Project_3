@@ -1,7 +1,8 @@
 # Project:T-Shirt Website
 
 ## 🌐 Live Demo
-👉 [Try the chatbot here](https://your-username.github.io/chatbot-project/)
+👉 [Try the chatbot here](https://khzouhair.github.io/Project_3/)
+
 ![Capturet](https://github.com/user-attachments/assets/8dd2895b-9dd6-414d-b531-693700067856)
 
 ## Description
